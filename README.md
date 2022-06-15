@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aumi-Nataly. Im rogrammer C#.
+- 👋 Hi, I’m Nataly. Im rogrammer C#.
 - 👀 I’m interested in desktop application development (winforms + devexpress) and asp.net core.
 
 <!---
