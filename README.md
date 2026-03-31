@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Nataly. Im rogrammer C#.
-- 👀 I’m interested in desktop application development (winforms + devexpress) and asp.net core.
+👋 Hi, I’m Nataly. I’m a backend developer with 8 years of professional experience in C#.
+
+🔧 Specialize in ASP.NET Core and desktop application development (WinForms + DevExpress).
+
+🎮 Currently learning Unity for game development.
 
 
 <img src="https://www.codewars.com/users/Aumi_Nataly/badges/small?theme=light" />
